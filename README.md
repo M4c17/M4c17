@@ -5,6 +5,8 @@
 
 [Türkçe](#türkçe) · [English](#english) · [Kaggle](https://www.kaggle.com/enesfurkanmacit) · [LinkedIn](https://www.linkedin.com/in/enesfurkan-macit/)
 
+**[GitHub proje portföyüm / View my project portfolio](https://github.com/M4c17/data-science-portfolio)**
+
 ## Türkçe
 
 Yönetim Bilişim Sistemleri mezunuyum. Python ve SQL kullanarak veri analizi ve makine öğrenimi alanlarında kendimi geliştiriyorum. Verileri incelemek, modelleri karşılaştırmak ve bulguları anlaşılır şekilde sunmak üzerine çalışıyorum. İş ve finans problemlerinde veri analitiğinin kullanımıyla ilgileniyorum.
