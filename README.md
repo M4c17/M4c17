@@ -15,6 +15,9 @@ Yönetim Bilişim Sistemleri mezunuyum. Python ve SQL kullanarak veri analizi ve
 - **[Teslimat Verileri Analizi ve Sınıflandırma](https://www.kaggle.com/code/enesfurkanmacit/delivery-logistics-eda-classification-analysis):** Teslimat özelliklerinin analizi ve değerlendirme grupları için LightGBM ve XGBoost modellerinin karşılaştırılması.
 - **[Satış Analizi ve Saatlik Gelir Tahmini](https://www.kaggle.com/code/enesfurkanmacit/coffee-shop-sales-data-analysis-revenue-predict):** Satış verilerinin analizi ve Random Forest regresyonuyla saatlik gelir tahmini.
 
+- **[Diyabet Tahmini](https://www.kaggle.com/code/enesfurkanmacit/diabetes-prediction-catboost-lightbgbm-0-7265):** CatBoost ve LightGBM ile diyabet tahmini üzerine bir Kaggle çalışması.
+- **[Video Oyunu Satış Analizi](https://www.kaggle.com/code/enesfurkanmacit/video-game-sales-analysis-trends-publishers):** Video oyunu satışlarındaki eğilimleri ve yayıncıları inceleyen analiz.
+
 ### Araçlar ve ilgi alanları
 
 Python, SQL (T-SQL), Pandas, NumPy, scikit-learn ve MS SQL Server; sınıflandırma, regresyon ve model değerlendirme. Keras, PyTorch ve TensorFlow ile derin öğrenme konularında kendimi geliştiriyorum.
@@ -28,6 +31,9 @@ I am a Management Information Systems graduate developing practical skills in da
 - **[Bank Customer Churn Prediction](https://www.kaggle.com/code/enesfurkanmacit/bank-customer-churn-prediction-classification):** Exploratory analysis and comparison of three classifiers on bank customer data. Random Forest achieved an F1 score of 0.85 for the churn class on the held-out test set.
 - **[Delivery Logistics: EDA & Classification](https://www.kaggle.com/code/enesfurkanmacit/delivery-logistics-eda-classification-analysis):** Exploratory analysis of delivery characteristics and comparison of LightGBM and XGBoost classifiers for delivery ratings.
 - **[Coffee Shop Sales & Revenue Prediction](https://www.kaggle.com/code/enesfurkanmacit/coffee-shop-sales-data-analysis-revenue-predict):** Sales analysis and hourly revenue prediction using Random Forest regression.
+
+- **[Diabetes Prediction](https://www.kaggle.com/code/enesfurkanmacit/diabetes-prediction-catboost-lightbgbm-0-7265):** A Kaggle notebook exploring diabetes prediction with CatBoost and LightGBM.
+- **[Video Game Sales Analysis](https://www.kaggle.com/code/enesfurkanmacit/video-game-sales-analysis-trends-publishers):** An analysis of video game sales trends and publishers.
 
 ### Tools and interests
 
